@@ -1,5 +1,5 @@
 ### Hi there :wave:, my name is Dongkyun
-I wanna be a developer who continues to grow.  
+:seedling: I wanna be a developer who continues to grow.  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongkyunkimdev)](https://github.com/dongkyunkimdev)  
 [![Dongkyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongkyunkimdev)](https://github.com/dongkyunkimdev)
