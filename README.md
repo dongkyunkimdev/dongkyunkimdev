@@ -2,7 +2,7 @@
 :seedling: I wanna be a developer who continues to grow.  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongkyunkimdev&layout=compact)](https://github.com/dongkyunkimdev)  
-[![Dongkyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongkyunkimdev)](https://github.com/dongkyunkimdev)
+<!-- [![Dongkyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongkyunkimdev)](https://github.com/dongkyunkimdev) -->
 ## :hammer: Tech
   
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>  
